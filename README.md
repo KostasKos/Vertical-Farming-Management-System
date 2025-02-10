@@ -1,6 +1,6 @@
 # Vertical-Farming-Management-System
 
-# README - Setup Instructions
+# README - Setup Instructions For Vertical Farming App (Site)
 
 (Everything is placed in Site Folder)
 
