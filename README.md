@@ -2,7 +2,9 @@
 
 # Landing Page : https://agrisense-psi.vercel.app/
 
-# README - Setup Instructions For Vertical Farming App (Site)
+# Setup Instructions For Vertical Farming App (Site)
+
+# README 
 
 (Everything is placed in Site Folder)
 
