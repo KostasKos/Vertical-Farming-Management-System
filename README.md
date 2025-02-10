@@ -7,7 +7,7 @@
 ## 1. Database Setup
 
 1. **Import the Database Dump**:
-   - Use the provided `DB_dump` file and import it into your MySQL database.
+   - Use the provided `DB_dump` file and import it into your MySQL database (From Database Folder).
    - You can do this by running the `.sql` file in MySQL Workbench or using a command line tool.
 
 ---
