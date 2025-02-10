@@ -2,7 +2,7 @@
 
 # README - Setup Instructions
 
-(Everything is placed in VerticalFarmingManagementApp Folder)
+(Everything is placed in Site Folder)
 
 ## 1. Database Setup
 
